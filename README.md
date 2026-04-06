@@ -1,6 +1,6 @@
 # 🎬 Netflix Movies Analysis
 
-![Python](https://img.shields.io/badge/Python-3.8+-blue?style=flat&logo=python)
+![Python](https://1688370117923.png?style=flat&logo=python)
 ![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-150458?style=flat&logo=pandas)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-orange?style=flat)
 ![Seaborn](https://img.shields.io/badge/Seaborn-Visualization-4C72B0?style=flat)
