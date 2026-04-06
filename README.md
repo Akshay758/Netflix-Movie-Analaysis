@@ -1,6 +1,6 @@
 # 🎬 Netflix Movies Analysis
 <p align="center">
-  <img src="1688370117923.png" alt="Profile" width="150" style="border-radius: 50%;"/>
+  <img src="1688370117923.png" alt="Profile" width="350" style="border-radius: 50%;"/>
 </p>
 
 
