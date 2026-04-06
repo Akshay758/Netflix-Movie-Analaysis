@@ -1,11 +1,8 @@
 # 🎬 Netflix Movies Analysis
+<p align="center">
+  <img src="assets/1688370117923.png" alt="Profile" width="150" style="border-radius: 50%;"/>
+</p>
 
-![Python](https://1688370117923.png?style=flat&logo=python)
-![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-150458?style=flat&logo=pandas)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-orange?style=flat)
-![Seaborn](https://img.shields.io/badge/Seaborn-Visualization-4C72B0?style=flat)
-![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?style=flat&logo=jupyter)
-![License](https://img.shields.io/badge/License-MIT-green?style=flat)
 
 > Exploratory data analysis of Netflix movies to uncover trends in content distribution, genre popularity, ratings, and viewer preferences.
 
